@@ -17,7 +17,7 @@ This project presents the design, implementation, and evaluation of a new crypto
 - Conclusions and bibliography
 
  ## Files in this Repo    
-- [Final_Report.pdf](Final_Report.pdf) — Complete report including flowcharts, test results, and analysis.
+- [https://github.com/Evaniraut/Cryptography-Project.git](Final_Report.pdf) — Complete report including flowcharts, test results, and analysis.
 
 
 ##  Key Learnings  
